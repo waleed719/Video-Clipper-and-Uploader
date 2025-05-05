@@ -4,3 +4,5 @@ output/
 # Ignore specific files in the upload directory
 upload/token.txt
 upload/page_id.txt
+upload/error_log.txt
+upload.service_log.txt
