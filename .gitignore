@@ -1,0 +1,6 @@
+# Ignore all files and folders in the output directory
+output/
+
+# Ignore specific files in the upload directory
+upload/token.txt
+upload/page_id.txt

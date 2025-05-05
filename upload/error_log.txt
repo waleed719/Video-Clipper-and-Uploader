@@ -1,0 +1,34 @@
+Traceback (most recent call last):
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 248, in <module>
+    main()
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 245, in main
+    upload_videos_to_facebook(args.folder, access_token, page_id, args.caption, args.debug)
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 193, in upload_videos_to_facebook
+    time.sleep(3600)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 248, in <module>
+    
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 245, in main
+    
+    ^
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 193, in upload_videos_to_facebook
+    if batch_start + batch_size < len(video_files):
+        ~~~~~~~~~~~^~~~~
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 250, in <module>
+    main()
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 247, in main
+    upload_videos_to_facebook(args.folder, access_token, page_id, args.caption, args.debug)
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 195, in upload_videos_to_facebook
+    time.sleep(3600)
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 250, in <module>
+    main()
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 247, in main
+    upload_videos_to_facebook(args.folder, access_token, page_id, args.caption, args.debug)
+  File "D:\python\Python Video Clipper\upload\fb_uploader_v1.0.3.py", line 195, in upload_videos_to_facebook
+    time.sleep(3600)
+KeyboardInterrupt
